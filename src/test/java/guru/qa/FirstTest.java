@@ -12,7 +12,7 @@ public class FirstTest {
 
     @BeforeEach
     void setUp() {
-        System.out.println("this is before each method");
+        System.out.println("this is before each method!");
 
     }
 
